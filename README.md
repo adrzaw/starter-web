@@ -7,6 +7,7 @@ ajajajaja
 ##Deployment
 
 ##How to contribute
+Please for this cos tam cos tam
 
 ### Copyright
 
